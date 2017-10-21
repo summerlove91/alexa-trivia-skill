@@ -88,7 +88,7 @@ module.exports = {
         {
             'Where does the name Seattle come from?': [
                 'Seattle is derivative of the Indian name Sealth',
-                'Because the city is surrounded by waters',
+                'sea comes from how the city is surrounded by waters',
                 'Seattle is the name of the popular local politician Seattle Newman',
             ],
         },
@@ -116,10 +116,10 @@ module.exports = {
             ],
         },
         {
-            'What happened to the original city of Seattle?': [
-                'The original city was burned to the ground',
-                'The original city was torn down to make way for new one',
-                'The current city is the original city',
+            'Seattle is home of which popular coffee chain?': [
+                'Starbucks',
+                'Coffee Beans',
+                'Philz Coffee',
             ],
         },
         {
@@ -131,11 +131,11 @@ module.exports = {
             ],
         },
         {
-            'How many professional sports teams are there in Seattle?': [
-                'four',
-                'two',
-                'three',
-                'five',
+            'What is true fact about Seattle?': [
+                'People in Seattle buy the most sunglasses per capita than any other U.S. city.',
+                'People do not take bike to work than any other similar sized cities.',
+                'Seattles annual rainfall is more than Portland and Chicago combined.',
+                'Seattle is ranked fifth the most liberal city in the country.',
             ],
         },
         {
@@ -153,6 +153,15 @@ module.exports = {
                 'Seattle Bellevue International Airport',
             ],
         },
+
+        {
+          'Which is not one of the top industries in State of Washington?': [
+                'Bioscience',
+                'Software',
+                'Micro-Electronics',
+                'Agriculture',
+          ],
+        }
     ],
     QUESTIONS_EN_US: [
         {
@@ -237,7 +246,7 @@ module.exports = {
         {
             'Where does the name Seattle come from?': [
                 'Seattle is derivative of the Indian name Sealth',
-                'Because the city is surrounded by waters',
+                'sea comes from how the city is surrounded by waters',
                 'Seattle is the name of the popular local politician Seattle Newman',
             ],
         },
@@ -265,10 +274,10 @@ module.exports = {
             ],
         },
         {
-            'What happened to the original city of Seattle?': [
-                'The original city was burned to the ground',
-                'The original city was torn down to make way for new one',
-                'The current city is the original city',
+            'Seattle is home of which popular coffee chain?': [
+                'Starbucks',
+                'Coffee Beans',
+                'Philz Coffee',
             ],
         },
         {
@@ -280,11 +289,11 @@ module.exports = {
             ],
         },
         {
-            'How many professional sports teams are there in Seattle?': [
-                'four',
-                'two',
-                'three',
-                'five',
+            'What is true fact about Seattle?': [
+                'People in Seattle buy the most sunglasses per capita than any other U.S. city.',
+                'People do not take bike to work than any other similar sized cities.',
+                'Seattles annual rainfall is more than Portland and Chicago combined.',
+                'Seattle is ranked fifth the most liberal city in the country.',
             ],
         },
         {
@@ -302,5 +311,14 @@ module.exports = {
                 'Seattle Bellevue International Airport',
             ],
         },
+
+        {
+          'Which is not one of the top industries in State of Washington?': [
+                'Bioscience',
+                'Software',
+                'Micro-Electronics',
+                'Agriculture',
+          ],
+        }
     ],
 };
